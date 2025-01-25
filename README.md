@@ -17,7 +17,7 @@ Gemini Clone is a React-based project designed to replicate the functionality of
     - [Potential Enhancements](#potential-enhancements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+
 
 ## Introduction
 
