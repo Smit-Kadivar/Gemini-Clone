@@ -47,7 +47,7 @@ Gemini Clone is a web application built using React that emulates the Google Gem
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Smit-Kadivar/Gemini-Clone.git
+   git clone https://github.com/yourgithubutl/Gemini-Clone.git
    ```
 
 2. Navigate to the project directory:
